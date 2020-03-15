@@ -1,7 +1,6 @@
 # Audio_Spectrum_Analyzer_with_GUI
 
-Audio Spectrum Analyzer Project
-Audio spectrum analyzer with GUI is basic analyzer for analyzing spectrum of audio data.
+Audio spectrum analyzer with GUI Project
 
 Respository: [Audio_Spectrum_Analyzer_with_GUI](https://github.com/ravimallah8/Audio_Spectrum_Analyzer_with_GUI)
 
