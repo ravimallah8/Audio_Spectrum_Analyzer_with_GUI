@@ -10,7 +10,7 @@ Home GUI
 ![](Screenshot/home.png)
 
 Live Power Spectrum
-
+------------
 ![](Screenshot/pw_1.png)
 
 
